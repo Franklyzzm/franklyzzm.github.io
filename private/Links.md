@@ -33,7 +33,9 @@
 
 [中國大學慕課MOOC](https://www.icourse163.org/)
 
-[谷歌翻译](https://translate.google.com) [CN](https://translate.google.cn) 
+[有道翻譯](https://fanyi.youdao.com/index.html#/)
+
+[谷歌翻譯](https://translate.google.com)
 
 [DeepL Translate](https://www.deepl.com/translator)
 

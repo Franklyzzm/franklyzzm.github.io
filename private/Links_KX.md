@@ -181,7 +181,7 @@ NCBI
 * TeamViewer — 遠程控制
 * Everything — 本地搜索
 * Listary — 搜索
-* [蓝灯(Lantern)](https://github.com/getlantern/lantern) — VPN 有免费 500M 流量。
+* [蓝灯(Lantern)](https://github.com/getlantern/lantern) — VPN 有免费 250M 流量。
 * [光年VPN](https://www.lightyearvpn.com/) — 含两个免费节点。支持 Windows、MacOS。
 * [TouchVPN](https://touchvpn.net/) — 官网显示有 Android、Windows、Chrome插件、iOS、MacOS 版本。
 * Parallels ($$) — mac虛擬機

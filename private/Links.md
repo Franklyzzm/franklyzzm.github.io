@@ -5,6 +5,7 @@
 | 搜索     | [Google](https://www.google.com) | [Bing](https://www.bing.com) | [搜狗](https://www.sogou.com) | [微信](https://weixin.sogou.com) |  | 工具     | [火車票](https://www.12306.cn) | [地圖](https://www.openstreetmap.org/) | [快遞查詢](https://www.kuaidi100.com) | [谷歌翻譯](https://translate.google.cn) |  |
 | -------- | :------: | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | **搜索** | [Google](https://www.google.com) | [Bing](https://www.bing.com) | [搜狗](https://www.sogou.com) | [搜微信](https://weixin.sogou.com) | [维基百科](https://wikipedia.org) | **工具** | [火車票](https://www.12306.cn) | [地圖](https://www.openstreetmap.org/) | [快遞查詢](https://www.kuaidi100.com) | [谷歌翻譯](https://translate.google.cn) | [谷歌學術](https://scholar.google.com) |
+| **AIChat** | [DeepSeek](https://chat.deepseek.com) | [字节豆包](https://www.doubao.com/chat) | [阿里通义](https://tongyi.aliyun.com) | [讯飞星火](https://xinghuo.xfyun.cn) | [百度一言](https://yiyan.baidu.com) | [**ChatGPT**](https://chat.openai.com) | [微软Copilot](https://copilot.microsoft.com) | [谷歌Gemini](https://gemini.google.com) | [Claude](https://claude.ai) | [Perplexity ](https://www.perplexity.ai) | [JasperChat](https://www.jasper.ai/chat) |
 | **購物** | [京東](https://www.jd.com)     | [淘寶](https://www.taobao.com) | [當當](https://www.dangdang.com)  | [1688](https://www.1688.com) | [维基文庫](https://wikisource.org) | **郵箱** | [谷歌郵箱](https://mail.google.com) | [雅虎郵箱](https://mail.yahoo.com) | [新浪郵箱](https://mail.163.com)                        | [騰訊郵箱](https://mail.qq.com)         | [139 郵箱](https://mail.139.com)       |
 | **影音** | [央視](https://tv.cctv.com/live/cctv1) | [B 站](https://www.bilibili.com) | [咪咕音樂](https://music.migu.cn) | [QQ音樂](https://y.qq.com)       | [维基圖書](https://wikibooks.org) | **追劇** | [人人影視](https://www.rrys.tv) | [愛奇藝](https://www.iqiyi.com) | [優酷](https://www.youku.com) |  | [質子郵箱](https://www.protonmail.com) |
 | **其他** | [知乎](https://www.zhihu.com) | [豆瓣](https://www.douban.com) | [微博](https://www.weibo.com) | [微信網頁版](https://web.wechat.com) | [維基學院](https://wikiversity.org) | **無名** | [學習强國](https://www.xuexi.cn) | [北郵人導航](https://byr.wiki) | [科學上網](https://github.com/byrwiki/byrwiki/issues/13) | [今日熱榜](https://tophub.today/) | [新華網](http://www.xinhuanet.com/) |
@@ -156,6 +157,7 @@ NCBI
 * CopyTranslator 
 * Zotero 学术文献管理
 * Fritzing 电路
+* KiCad 电路
 
 #### 專業工具 Prof
 

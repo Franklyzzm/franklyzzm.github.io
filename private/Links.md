@@ -2,15 +2,15 @@
 
 < [返回首頁|HOME](../index.html)
 
-| 搜索     | [Google](https://www.google.com) | [Bing](https://www.bing.com) | [搜狗](https://www.sogou.com) | [微信](https://weixin.sogou.com) |  | 工具     | [火車票](https://www.12306.cn) | [地圖](https://www.openstreetmap.org/) | [快遞查詢](https://www.kuaidi100.com) | [谷歌翻譯](https://translate.google.cn) |  |
+| 搜索     | [Google](https://www.google.com) | [Bing](https://www.bing.com) | [搜狗](https://www.sogou.com) | [微信](https://weixin.sogou.com) |  | 工具     | [火車票](https://www.12306.cn) | [地圖](https://www.openstreetmap.org) | [快遞查詢](https://www.kuaidi100.com) | [谷歌翻譯](https://translate.google.cn) |  |
 | -------- | :------: | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| **搜索** | [Google](https://www.google.com) | [Bing](https://www.bing.com) | [搜狗](https://www.sogou.com) | [搜微信](https://weixin.sogou.com) | [维基百科](https://wikipedia.org) | **工具** | [火車票](https://www.12306.cn) | [地圖](https://www.openstreetmap.org/) | [快遞查詢](https://www.kuaidi100.com) | [谷歌翻譯](https://translate.google.cn) | [谷歌學術](https://scholar.google.com) |
+| **搜索** | [Google](https://www.google.com) | [Bing](https://www.bing.com) | [搜狗](https://www.sogou.com) | [搜微信](https://weixin.sogou.com) | [维基百科](https://wikipedia.org) | **工具** | [火車票](https://www.12306.cn) | [地圖](https://www.openstreetmap.org) | [快遞查詢](https://www.kuaidi100.com) | [谷歌翻譯](https://translate.google.cn) | [谷歌學術](https://scholar.google.com) |
 | **AIChat** | [DeepSeek](https://chat.deepseek.com) | [字节豆包](https://www.doubao.com/chat) | [阿里通义](https://tongyi.aliyun.com) | [讯飞星火](https://xinghuo.xfyun.cn) | [百度一言](https://yiyan.baidu.com) | [**ChatGPT**](https://chat.openai.com) | [微软Copilot](https://copilot.microsoft.com) | [谷歌Gemini](https://gemini.google.com) | [Claude](https://claude.ai) | [Perplexity ](https://www.perplexity.ai) | [JasperChat](https://www.jasper.ai/chat) |
 | **購物** | [京東](https://www.jd.com)     | [淘寶](https://www.taobao.com) | [當當](https://www.dangdang.com)  | [1688](https://www.1688.com) | [维基文庫](https://wikisource.org) | **郵箱** | [谷歌郵箱](https://mail.google.com) | [雅虎郵箱](https://mail.yahoo.com) | [新浪郵箱](https://mail.163.com)                        | [騰訊郵箱](https://mail.qq.com)         | [139 郵箱](https://mail.139.com)       |
 | **影音** | [央視](https://tv.cctv.com/live/cctv1) | [B 站](https://www.bilibili.com) | [咪咕音樂](https://music.migu.cn) | [QQ音樂](https://y.qq.com)       | [维基圖書](https://wikibooks.org) | **追劇** | [人人影視](https://www.rrys.tv) | [愛奇藝](https://www.iqiyi.com) | [優酷](https://www.youku.com) |  | [質子郵箱](https://www.protonmail.com) |
-| **其他** | [知乎](https://www.zhihu.com) | [豆瓣](https://www.douban.com) | [微博](https://www.weibo.com) | [微信網頁版](https://web.wechat.com) | [維基學院](https://wikiversity.org) | **無名** | [學習强國](https://www.xuexi.cn) | [北郵人導航](https://byr.wiki) | [科學上網](https://github.com/byrwiki/byrwiki/issues/13) | [今日熱榜](https://tophub.today/) | [新華網](http://www.xinhuanet.com/) |
-| **推薦** | [國務院](https://www.gov.cn) | [人民日報](https://www.people.com.cn)    |  |                                      | [中圖網](https://www.bookschina.com) |  | [漢典](https://www.zdic.net/) | [千篇](https://www.qianp.com/) | [千篇字典](https://zidian.qianp.com/) | [國圖](https://www.nlc.cn/) | [NCBI](https://www.ncbi.nlm.nih.gov/) |
-| **[農曆](https://www.rili.com.cn/wannianli/)** | [識典古籍](https://shidianguji.com/library) |  |            | [毛泽东选集](https://www.theorychina.org.cn/llzgxs/lxzz_894/) | [mylibrary](https://wikipedialibrary.wmflabs.org/users/my_library/) |  | [石墨文档](https://shimo.im/welcome) | [金山文档](https://www.kdocs.cn/welcome) | [腾讯文档](https://docs.qq.com/) | [东方财富](https://www.eastmoney.com/) | [同花顺](http://www.10jqka.com.cn/) |
+| **其他** | [知乎](https://www.zhihu.com) | [豆瓣](https://www.douban.com) | [微博](https://www.weibo.com) | [微信網頁版](https://web.wechat.com) | [維基學院](https://wikiversity.org) | **無名** | [學習强國](https://www.xuexi.cn) | [北郵人導航](https://byr.wiki) | [科學上網](https://github.com/byrwiki/byrwiki/issues/13) | [今日熱榜](https://tophub.today) | [新華網](http://www.xinhuanet.com) |
+| **推薦** | [國務院](https://www.gov.cn) | [人民日報](https://www.people.com.cn)    |  |                                      | [中圖網](https://www.bookschina.com) |  | [漢典](https://www.zdic.net) | [千篇](https://www.qianp.com) | [千篇字典](https://zidian.qianp.com) | [國圖](https://www.nlc.cn) | [NCBI](https://www.ncbi.nlm.nih.gov) |
+| **[農曆](https://www.rili.com.cn/wannianli)** | [識典古籍](https://shidianguji.com/library) |  |            | [毛泽东选集](https://www.theorychina.org.cn/llzgxs/lxzz_894) | [mylibrary](https://wikipedialibrary.wmflabs.org/users/my_library) |  | [石墨文档](https://shimo.im/welcome) | [金山文档](https://www.kdocs.cn/welcome) | [腾讯文档](https://docs.qq.com) | [东方财富](https://www.eastmoney.com) | [同花顺](http://www.10jqka.com.cn) |
 
 bㄅB　pㄆP　mㄇM　fㄈF　dㄉD　tㄊT　nㄋN　lㄌL　gㄍG　kㄎK　hㄏH　jㄐJ　qㄑQ　xㄒX　zhㄓZH　chㄔCH　shㄕSH　rㄖR　zㄗZ　cㄘC　sㄙS 
 
@@ -22,19 +22,19 @@ bㄅB　pㄆP　mㄇM　fㄈF　dㄉD　tㄊT　nㄋN　lㄌL　gㄍG　kㄎK　
 
 [中國國務院](https://www.gov.cn)
 
-[中国领事服务网](http://cs.mfa.gov.cn/)
+[中国领事服务网](http://cs.mfa.gov.cn)
 
 ### 學習 Study
 
-[中國國家圖書館](https://www.nlc.cn/)
+[中國國家圖書館](https://www.nlc.cn)
 
-[漢典](https://www.zdic.net/)
+[漢典](https://www.zdic.net)
 
-[千篇](https://www.qianp.com/)
+[千篇](https://www.qianp.com)
 
-[中國大學慕課MOOC](https://www.icourse163.org/)
+[中國大學慕課MOOC](https://www.icourse163.org)
 
-[有道翻譯](https://fanyi.youdao.com/index.html#/)
+[有道翻譯](https://fanyi.youdao.com/index.html#)
 
 [谷歌翻譯](https://translate.google.com)
 
@@ -44,7 +44,7 @@ bㄅB　pㄆP　mㄇM　fㄈF　dㄉD　tㄊT　nㄋN　lㄌL　gㄍG　kㄎK　
 
 ### 影音
 
-[云听](http://www.radio.cn/)
+[云听](http://www.radio.cn)
 [咪咕音樂](https://music.migu.cn)
 [央視直播](https://tv.cctv.com/live/cctv1)
 [哔哩哔哩](https://www.bilibili.com)
@@ -53,23 +53,21 @@ bㄅB　pㄆP　mㄇM　fㄈF　dㄉD　tㄊT　nㄋN　lㄌL　gㄍG　kㄎK　
 
 ### 科研 Science
 
-Science
-Nature
+[Nature](https://www.nature.com)
+[Science](https://www.sciencemag.org)
+[Lancet](https://www.thelancet.com)
+[Cell](https://www.cell.com)
+[BMJ](https://www.bmj.com/)
+[Elsevier](https://www.elsevier.com)
+[Oxford](https://academic.oup.com)
+[Wiley](https://onlinelibrary.wiley.com)
+[medRxiv](http://connect.medrxiv.org)
+[NEJM](https://www.nejm.org)
+[JAMA](https://jamanetwork.com)
 NCBI
-[CDC](https://www.cdc.gov/mmwr/Novel_Coronavirus_Reports.html)
-[NEJM](https://www.nejm.org/coronavirus)
-[JAMA](https://jamanetwork.com/journals/jama/pages/coronavirus-alert)
-[Lancet](https://www.thelancet.com/coronavirus)
-[Cell](https://www.cell.com/2019-nCOV)
-[BMJ](https://www.bmj.com/coronavirus)
-[Nature](https://www.nature.com/collections/hajgidghjb)
-[Science](https://www.sciencemag.org/collections/coronavirus)
-[Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
-[Oxford](https://academic.oup.com/journals/pages/coronavirus)
-[Wiley](https://novel-coronavirus.onlinelibrary.wiley.com/)
-[medRxiv](http://connect.medrxiv.org/relate/content/181)
+[CDC](https://www.cdc.gov)
 
-**Stand on the shoulders of giants**
+**Stand on the shoulders of Giants**
 
 
 
@@ -132,6 +130,7 @@ NCBI
 #### 多媒體 Multimedia
 
 * VLC 
+* PotPlayer
 
 #### 圖形與設計 Photo & Design
 
@@ -165,23 +164,23 @@ NCBI
 
 #### 系統工具 System tools
 
-* [tree](https://mama.indstate.edu/users/ice/tree/) — 目录结构
+* [tree](https://mama.indstate.edu/users/ice/tree) — 目录结构
 
-* [Everything](https://www.voidtools.com/) — 本地搜索
+* [Everything](https://www.voidtools.com) — 本地搜索
 
-* [Rufus](https://rufus.akeo.ie/) — Rufus 是 Ubuntu 官网推荐的 USB 启动盘制作工具。
+* [Rufus](https://rufus.akeo.ie) — Rufus 是 Ubuntu 官网推荐的 USB 启动盘制作工具。
 
-* [Etcher](https://www.balena.io/etcher/) — balenaEtcher USB 启动盘制作工具
+* [Etcher](https://www.balena.io/etcher) — balenaEtcher USB 启动盘制作工具
 
-* [微PE工具箱](https://www.wepe.com.cn/) — 制作 U 盘启动盘 [荐]
+* [微PE工具箱](https://www.wepe.com.cn) — 制作 U 盘启动盘 [荐]
 
   > 这款微 PE 的好处就是绝对纯净，没有任何的捆绑软件及主页，最重要的一点就是该工具绿色，没有软件安装过程，直接双击 exe 文件即可开始制作 U 盘启动盘。
 
-* [EasyBCD](https://neosmart.net/EasyBCD/) — 用于配置和调整系统引导问题
+* [EasyBCD](https://neosmart.net/EasyBCD) — 用于配置和调整系统引导问题
 
 * [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html#version-history) — 最权威的处理器和相关系统信息识别工具
 
-* [GPU-Z](https://www.techpowerup.com/gpuz/) — 最权威的顯卡和相关系统信息识别工具
+* [GPU-Z](https://www.techpowerup.com/gpuz) — 最权威的顯卡和相关系统信息识别工具
 
 * ChipGenius — U 盘芯片檢測工具
 
@@ -192,25 +191,26 @@ NCBI
 #### 其他 Other
 
 * Virtual Box — 虛擬機
-* [Flux](https://justgetflux.com/) — 亮度调节 护眼软件
+* [Flux](https://justgetflux.com) — 亮度调节 护眼软件
 * TeamViewer — 遠程控制
 * Everything — 本地搜索
 * Listary — 搜索
 * [蓝灯(Lantern)](https://github.com/getlantern/lantern) — VPN 有免费 250M 流量。
 *  
 * 
-* [光年VPN](https://www.lightyearvpn.com/) — 含两个免费节点。支持 Windows、MacOS。
-* [TouchVPN](https://touchvpn.net/) — 官网显示有 Android、Windows、Chrome插件、iOS、MacOS 版本。
+* [光年VPN](https://www.lightyearvpn.com) — 含两个免费节点。支持 Windows、MacOS。
+* [TouchVPN](https://touchvpn.net) — 官网显示有 Android、Windows、Chrome插件、iOS、MacOS 版本。
 * Parallels ($$) — mac虛擬機
 
 
 
 ### 商家 Enterprise
 
-Thermo Fisher
+BD
+Cytiva
 Corning
 Ge Life
-BD
+Thermo Fisher
 
 
 
@@ -225,9 +225,9 @@ BD
 
 ### <a name="Aa">A</a>
 
-[Apple](https://www.apple.com/)
+[Apple](https://www.apple.com)
 
-[Anki](https://docs.ankiweb.net/)
+[Anki](https://docs.ankiweb.net)
 
 
 
@@ -239,9 +239,9 @@ BD
 
 ### <a name="Cc">C</a>
 
-[Calibre](https://calibre-ebook.com/)
+[Calibre](https://calibre-ebook.com)
 
-[CopyTranslator](https://copytranslator.github.io/)
+[CopyTranslator](https://copytranslator.github.io)
 
 
 
@@ -251,15 +251,15 @@ BD
 
 [Deepin](https://deepin.org)
 
-[Diamond-ant](https://diamond-ant.co.jp/)
+[Diamond-ant](https://diamond-ant.co.jp)
 
 
 
 ### <a name="Ee">E</a>
 
-[Everything](https://www.voidtools.com/)
+[Everything](https://www.voidtools.com)
 
-[Etcher](https://www.balena.io/etcher/)
+[Etcher](https://www.balena.io/etcher)
 
 
 
@@ -267,31 +267,31 @@ BD
 
 [FreeBSD](https://freebsd.org)
 
-[FreeNAS](https://www.freenas.org/)
+[FreeNAS](https://www.freenas.org)
 
-[Firefox](https://www.mozilla.org/en-US/firefox/new/)
+[Firefox](https://www.mozilla.org/en-US/firefox/new)
 
-[Flux](https://justgetflux.com/)
+[Flux](https://justgetflux.com)
 
-[Free Download Manager(FDM)](https://www.freedownloadmanager.org/)
+[Free Download Manager(FDM)](https://www.freedownloadmanager.org)
 
-[Fritzing](https://fritzing.org/)
+[Fritzing](https://fritzing.org)
 
 
 
 ### <a name="Gg">G</a>
 
-[GIMP](https://www.gimp.org/)
+[GIMP](https://www.gimp.org)
 
 [GitHub](https://www.github.com)
 
-[GoldenDict](https://www.goldendict.org/)
+[GoldenDict](https://www.goldendict.org)
 
 [Google Chrome](https://www.google.com/chrome/index.html)
 
 [GnuPG](https://gnupg.org)
 
-[Gpg4win](https://gpg4win.org/)
+[Gpg4win](https://gpg4win.org)
 
 
 
@@ -299,7 +299,7 @@ BD
 
 [HomeBank](https://homebank.free.fr)
 
-[漢典](https://www.zdic.net/)
+[漢典](https://www.zdic.net)
 
 
 
@@ -307,27 +307,27 @@ BD
 
 [Inkscape](https://inkscape.org)
 
-[Icom America](https://www.icomamerica.com/en/amateur/)
+[Icom America](https://www.icomamerica.com/en/amateur)
 
-[Internet Download Manager(IDM)](https://www.internetdownloadmanager.com/)
+[Internet Download Manager(IDM)](https://www.internetdownloadmanager.com)
 
 
 
 ### <a name="Jj">J</a>
 
-[Just Learn Morse Code](https://www.justlearnmorsecode.com/)
+[Just Learn Morse Code](https://www.justlearnmorsecode.com)
 
 
 
 ### <a name="Kk">K</a>
 
-[Kali Linux](https://www.kali.org/)
+[Kali Linux](https://www.kali.org)
 
-[KeepassXC](https://keepassxc.org/)
+[KeepassXC](https://keepassxc.org)
 
-[Krita](https://krita.org/)
+[Krita](https://krita.org)
 
-[Kubuntu](https://kubuntu.org/)
+[Kubuntu](https://kubuntu.org)
 
 
 
@@ -335,37 +335,37 @@ BD
 
 [LibreOffice](https://libreoffice.org)
 
-[LaTeX](https://www.latex-project.org/)
+[LaTeX](https://www.latex-project.org)
 
 [Lantern](https://github.com/getlantern/lantern/releases)
 
-[Listary](https://www.listary.com/)
+[Listary](https://www.listary.com)
 
 
 
 ### <a name="Mm">M</a>
 
-[MacTeX](https://www.tug.org/mactex/)
+[MacTeX](https://www.tug.org/mactex)
 
-[MacDown](https://macdown.uranusjr.com/)
+[MacDown](https://macdown.uranusjr.com)
 
 [Min Wiki Blog](https://franklyzzm.github.io) / [source](https://github.com/Franklyzzm/franklyzzm.github.io)
 
-[MiKTeX](https://miktex.org/)
+[MiKTeX](https://miktex.org)
 
-[MindMaster](https://www.edrawsoft.cn/mindmaster/)
+[MindMaster](https://www.edrawsoft.cn/mindmaster)
 
 [Morse Code](https://en.wikipedia.org/wiki/Morse_code)
 
-[MkDocs](https://www.mkdocs.org/)
+[MkDocs](https://www.mkdocs.org)
 
-[Mathpix Snip](https://mathpix.com/)
+[Mathpix Snip](https://mathpix.com)
 
 
 
 ### <a name="Nn">N</a>
 
-[nano](https://www.nano-editor.org/)
+[nano](https://www.nano-editor.org)
 
 [NCBI](https://www.ncbi.nlm.nih.gov)
 
@@ -377,19 +377,19 @@ Nord
 
 ### <a name="Oo">O</a>
 
-[OneNote](https://www.onenote.com/)
+[OneNote](https://www.onenote.com)
 
-[OBS Studio](https://obsproject.com/)
+[OBS Studio](https://obsproject.com)
 
-[Olive](https://www.olivevideoeditor.org/)
+[Olive](https://www.olivevideoeditor.org)
 
-[Overleaf](https://www.overleaf.com/)
+[Overleaf](https://www.overleaf.com)
 
 
 
 ### <a name="Pp">P</a>
 
-[Parrot Security OS](https://www.parrotsec.org/)
+[Parrot Security OS](https://www.parrotsec.org)
 
 [ProtonMail](https://protonmail.com)
 
@@ -405,25 +405,25 @@ Nord
 
 ### <a name="Rr">R</a>
 
-[Resilio Sync](https://www.resilio.com/individuals/)
+[Resilio Sync](https://www.resilio.com/individuals)
 
-[Rufus](https://rufus.ie/)
+[Rufus](https://rufus.ie)
 
 
 
 ### <a name="Ss">S</a>
 
-[SCI-HUB](https://sci-hub.uno/)
+[SCI-HUB](https://sci-hub.uno)
 
-[SimpleNote](https://simplenote.com/)
+[SimpleNote](https://simplenote.com)
 
-[Sublime Text](https://www.sublimetext.com/)
+[Sublime Text](https://www.sublimetext.com)
 
 [Signal](https://signal.org)
 
-[SpaceSniffer](https://www.uderzo.it/) 
+[SpaceSniffer](https://www.uderzo.it) 
 
-[Stellarium](https://stellarium.org/)
+[Stellarium](https://stellarium.org)
 
 Surf
 
@@ -433,15 +433,15 @@ Surf
 
 [Typora](https://typora.io) 
 
-[Thunderbird](https://www.thunderbird.net/) 
+[Thunderbird](https://www.thunderbird.net) 
 
-[TeamViewer](https://www.teamviewer.com/en/) 
+[TeamViewer](https://www.teamviewer.com/en) 
 
-[Telegram](https://telegram.org/) 
+[Telegram](https://telegram.org) 
 
 tree
 
-[TrueNAS](https://www.truenas.com/download-truenas-core/)
+[TrueNAS](https://www.truenas.com/download-truenas-core)
 
 
 
@@ -455,9 +455,9 @@ tree
 
 [VLC](https://videolan.org)
 
-[Virtual Box](https://www.virtualbox.org/)
+[Virtual Box](https://www.virtualbox.org)
 
-[Vim](https://www.vim.org/)
+[Vim](https://www.vim.org)
 
 
 
@@ -485,21 +485,21 @@ Wikiversity
 
 ### <a name="Yy">Y</a>
 
-[YAESU](https://yaesu.com/)
+[YAESU](https://yaesu.com)
 
 
 
 ### <a name="Zz">Z</a>
 
-[Zotero](https://www.zotero.org/)
+[Zotero](https://www.zotero.org)
 
-[中國國家圖書館](https://www.nlc.cn/)
+[中國國家圖書館](https://www.nlc.cn)
 
 
 
 ### non-L
 
-[µTorrent](https://www.utorrent.com/)
+[µTorrent](https://www.utorrent.com)
 
 
 

@@ -10,7 +10,7 @@
 | **影音** | [央視](https://tv.cctv.com/live/cctv1) | [B 站](https://www.bilibili.com) | [咪咕音樂](https://music.migu.cn) | [QQ音樂](https://y.qq.com)       | [维基圖書](https://wikibooks.org) | **追劇** | [人人影視](https://www.rrys.tv) | [愛奇藝](https://www.iqiyi.com) | [優酷](https://www.youku.com) |  | [質子郵箱](https://www.protonmail.com) |
 | **其他** | [知乎](https://www.zhihu.com) | [豆瓣](https://www.douban.com) | [微博](https://www.weibo.com) | [微信網頁版](https://web.wechat.com) | [維基學院](https://wikiversity.org) | **無名** | [學習强國](https://www.xuexi.cn) | [北郵人導航](https://byr.wiki) | [科學上網](https://github.com/byrwiki/byrwiki/issues/13) | [今日熱榜](https://tophub.today) | [新華網](http://www.xinhuanet.com) |
 | **推薦** | [國務院](https://www.gov.cn) | [人民日報](https://www.people.com.cn)    |  |                                      | [中圖網](https://www.bookschina.com) |  | [漢典](https://www.zdic.net) | [千篇](https://www.qianp.com) | [千篇字典](https://zidian.qianp.com) | [國圖](https://www.nlc.cn) | [NCBI](https://www.ncbi.nlm.nih.gov) |
-| **[農曆](https://www.rili.com.cn/wannianli)** | [識典古籍](https://shidianguji.com/library) |  |            | [毛泽东选集](https://www.theorychina.org.cn/llzgxs/lxzz_894) | [mylibrary](https://wikipedialibrary.wmflabs.org/users/my_library) |  | [石墨文档](https://shimo.im/welcome) | [金山文档](https://www.kdocs.cn/welcome) | [腾讯文档](https://docs.qq.com) | [东方财富](https://www.eastmoney.com) | [同花顺](http://www.10jqka.com.cn) |
+| **[農曆](https://www.rili.com.cn/wannianli)** | [識典古籍](https://shidianguji.com/library) |  |            | [毛泽东选集](https://www.theorychina.org.cn/llzgxs/lxzz_894) | [mylibrary](https://wikipedialibrary.wmflabs.org/users/my_library) |  | [石墨文档](https://shimo.im/welcome) | [金山文档](https://www.kdocs.cn/welcome) | [腾讯文档](https://docs.qq.com) | [Coursera](https://www.coursera.org) | [教育考試](https://www.neea.edu.cn) |
 
 bㄅB　pㄆP　mㄇM　fㄈF　dㄉD　tㄊT　nㄋN　lㄌL　gㄍG　kㄎK　hㄏH　jㄐJ　qㄑQ　xㄒX　zhㄓZH　chㄔCH　shㄕSH　rㄖR　zㄗZ　cㄘC　sㄙS 
 
@@ -24,9 +24,13 @@ bㄅB　pㄆP　mㄇM　fㄈF　dㄉD　tㄊT　nㄋN　lㄌL　gㄍG　kㄎK　
 
 [中国领事服务网](http://cs.mfa.gov.cn)
 
+
+
 ### 學習 Study
 
 [中國國家圖書館](https://www.nlc.cn)
+
+[中国教育考試网](https://www.neea.edu.cn)
 
 [漢典](https://www.zdic.net)
 
@@ -34,11 +38,13 @@ bㄅB　pㄆP　mㄇM　fㄈF　dㄉD　tㄊT　nㄋN　lㄌL　gㄍG　kㄎK　
 
 [中國大學慕課MOOC](https://www.icourse163.org)
 
-[有道翻譯](https://fanyi.youdao.com/index.html#)
+[有道翻譯](https://fanyi.youdao.com/index.html)
 
 [谷歌翻譯](https://translate.google.com)
 
 [DeepL Translate](https://www.deepl.com/translator)
+
+[Coursera](https://www.coursera.org)
 
 
 
@@ -57,7 +63,7 @@ bㄅB　pㄆP　mㄇM　fㄈF　dㄉD　tㄊT　nㄋN　lㄌL　gㄍG　kㄎK　
 [Science](https://www.sciencemag.org)
 [Lancet](https://www.thelancet.com)
 [Cell](https://www.cell.com)
-[BMJ](https://www.bmj.com/)
+[BMJ](https://www.bmj.com)
 [Elsevier](https://www.elsevier.com)
 [Oxford](https://academic.oup.com)
 [Wiley](https://onlinelibrary.wiley.com)

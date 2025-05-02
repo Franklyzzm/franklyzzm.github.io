@@ -22,7 +22,7 @@ bㄅB　pㄆP　mㄇM　fㄈF　dㄉD　tㄊT　nㄋN　lㄌL　gㄍG　kㄎK　
 
 [中國國務院](https://www.gov.cn)
 
-[中国领事服务网](http://cs.mfa.gov.cn)
+[中国领事服务网](https://cs.mfa.gov.cn)
 
 
 
@@ -105,6 +105,7 @@ NCBI
 
 * Simplenote
 * OneNote
+* Obsidian
 
 #### 思維導圖 MindMap
 
@@ -116,11 +117,13 @@ NCBI
 * Anki 一个友好智能的开源免费学习系统
 * Calibre 电子书阅读器
 * GoldenDict 电子词典
+* KoodoReader 电子书阅读器
 
 #### 網絡 Internet
 
 * Chrome 谷歌瀏覽器
 * Firefox 火狐瀏覽器
+* Brave 瀏覽器
 * Internet Download Manager 
 * Free Download Manager 
 * µTorrent 

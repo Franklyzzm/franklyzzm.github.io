@@ -11,9 +11,11 @@
 | **推薦** | [國務院](https://www.gov.cn) | [中圖網](https://www.bookschina.com) | [WhatsApp](https://www.whatsapp.com/) | [Linkin](https://www.linkedin.com/) | [GitHub](https://github.com/) | [SD](https://www.sciencedirect.com/) |  |  | [國圖](https://www.nlc.cn/)                              | [中國知網](https://cnki.net/) | [NCBI](https://www.ncbi.nlm.nih.gov/) |
 |          | [USA](https://www.usa.gov/) | [NA](https://www.nature.com/) | [WIRED](https://www.wired.com/) | [NASA](https://www.nasa.gov/) | [MIT](https://web.mit.edu/) | [AR](https://arxiv.org/) | [AC](https://www.academia.edu/)     | [AR](https://www.archives.gov/)          | [SF](https://www.stanford.edu/) | [識典古籍](https://shidianguji.com/library) |                                        |
 
-ㄅB ㄆP ㄇM ㄈF ㄉD ㄊT ㄋN ㄌL ㄍG ㄎK ㄏH ㄐJ ㄑQ ㄒX ㄓZH ㄔCH ㄕSH ㄖR ㄗZ ㄘC ㄙS 
+bㄅB　pㄆP　mㄇM　fㄈF　dㄉD　tㄊT　nㄋN　lㄌL　gㄍG　kㄎK　hㄏH　jㄐJ　qㄑQ　xㄒX　zhㄓZH　chㄔCH　shㄕSH　rㄖR　zㄗZ　cㄘC　sㄙS 
 
-ㄚA ㄛO ㄜE ㄝEH ㄞAI ㄟEI ㄠAU ㄡOU ㄢAN ㄣEN ㄤANG ㄥENG ㄦER ㄧI ㄨU ㄩIU ㄪV ㄫNG ㄬGN
+iㄧI　uㄨU　yu/üㄩ　 　aㄚA　oㄛO　eㄜE　êㄝie 　　 
+
+aiㄞAI　 eiㄟEI　 aoㄠAU　 ouㄡOU　 anㄢAN　 enㄣEN　angㄤANG　 engㄥENG　 erㄦER　 　vㄪV　 ngㄫNG　 gnㄬGN　
 
 [A](#Aa) [B](#Bb) [C](#Cc) [D](#Dd) [E](#Ee) [F](#Ff) [G](#Gg) [H](#Hh) [I](#Ii) [J](#Jj) [K](#Kk) [L](#Ll) [M](#Mm) [N](#Nn) [O](#Oo) [P](#Pp) [Q](#Qq) [R](#Rr) [S](#Ss) [T](#Tt) [U](#Uu) [V](#Vv) [W](#Ww) [X](#Xx) [Y](#Yy) [Z](#Zz)
 

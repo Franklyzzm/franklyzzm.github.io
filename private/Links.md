@@ -14,7 +14,9 @@
 
 bㄅB　pㄆP　mㄇM　fㄈF　dㄉD　tㄊT　nㄋN　lㄌL　gㄍG　kㄎK　hㄏH　jㄐJ　qㄑQ　xㄒX　zhㄓZH　chㄔCH　shㄕSH　rㄖR　zㄗZ　cㄘC　sㄙS 
 
-ㄚA ㄛO ㄜE ㄝEH ㄞAI ㄟEI ㄠAU ㄡOU ㄢAN ㄣEN ㄤANG ㄥENG ㄦER ㄧI ㄨU ㄩIU ㄪV ㄫNG ㄬGN
+iㄧI　uㄨU　yu/üㄩ　 　aㄚA　oㄛO　eㄜE　êㄝie 　　 
+
+aiㄞAI　 eiㄟEI　 aoㄠAU　 ouㄡOU　 anㄢAN　 enㄣEN　angㄤANG　 engㄥENG　 erㄦER　  　vㄪV　 ngㄫNG　 gnㄬGN　
 
 [A](#Aa) [B](#Bb) [C](#Cc) [D](#Dd) [E](#Ee) [F](#Ff) [G](#Gg) [H](#Hh) [I](#Ii) [J](#Jj) [K](#Kk) [L](#Ll) [M](#Mm) [N](#Nn) [O](#Oo) [P](#Pp) [Q](#Qq) [R](#Rr) [S](#Ss) [T](#Tt) [U](#Uu) [V](#Vv) [W](#Ww) [X](#Xx) [Y](#Yy) [Z](#Zz)
 

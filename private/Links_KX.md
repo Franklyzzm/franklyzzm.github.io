@@ -2,14 +2,15 @@
 
 < [HOME](../index.html)
 
-| 搜索     | [Google](https://www.google.com) | [Bing](https://www.bing.com) | [DDG](https://duckduckgo.com/) | [WikiHow](https://www.wikihow.com/Main-Page) |  | 工具     | [火車票](https://www.12306.cn) | [谷歌地圖](https://www.google.com/maps/) | [快遞查詢](https://www.kuaidi100.com) | [谷歌翻譯](https://translate.google.cn) |  |
+| 搜索     | [Google](https://www.google.com) | [Bing](https://www.bing.com) | [DDG](https://duckduckgo.com/) | [WikiHow](https://www.wikihow.com/Main-Page) | [Brave](https://search.brave.com/) | 工具     | [火車票](https://www.12306.cn) | [谷歌地圖](https://www.google.com/maps/) | [快遞查詢](https://www.kuaidi100.com) | [谷歌翻譯](https://translate.google.cn) |  |
 | -------- | :------: | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| **搜索** | [Google](https://www.google.com) | [Bing](https://www.bing.com) | [DDG](https://duckduckgo.com/)    | [WikiHow](https://www.wikihow.com/Main-Page) | [WikiPedia](https://wikipedia.org) | **工具** | [火車票](https://www.12306.cn) | [高德地圖](https://ditu.amap.com) | [快遞查詢](https://www.kuaidi100.com) | [谷歌翻譯](https://translate.google.cn) | [谷歌學術](https://scholar.google.com) |
-| **購物** | [京東](https://www.jd.com)     | [淘寶](https://www.taobao.com) | [當當](https://www.dangdang.com)  | [亞馬遜](https://www.amazon.com) | [1688](https://www.1688.com)         | **郵箱** | [谷歌郵箱](https://mail.google.com) | [雅虎郵箱](https://mail.yahoo.com) | [新浪郵箱](https://mail.163.com)                        | [騰訊郵箱](https://mail.qq.com)         | [139 郵箱](https://mail.139.com)       |
-| **影音** | [央視](https://tv.cctv.com/live) | [B 站](https://www.bilibili.com) | [SP](https://www.spotify.com/) | [Instagram](https://www.instagram.com/) | [YouTube](https://www.youtube.com/) | **追劇** | [人人影視](https://www.rrys.tv) | [愛奇藝](https://www.iqiyi.com) | [優酷](https://www.youku.com) | [NF](https://netflix.com/) | [質子郵箱](https://www.protonmail.com) |
-| **其他** | [Quora](https://www.quora.com/) | [Goodreads](https://www.goodreads.com/) | [reddit](https://www.reddit.com/) | [Yandex](https://yandex.com/) | [Blogger](https://www.blogger.com/) | **無名** | [漢典](https://www.zdic.net/) | [北郵人導航](https://byr.wiki) | [科學上網](https://github.com/byrwiki/byrwiki/issues/13) | [今日熱榜](https://tophub.today/) |  |
-| **推薦** | [國務院](https://www.gov.cn) | [中圖網](https://www.bookschina.com) | [WhatsApp](https://www.whatsapp.com/) | [Linkin](https://www.linkedin.com/) | [GitHub](https://github.com/) | [SD](https://www.sciencedirect.com/) |  |  | [國圖](https://www.nlc.cn/)                              | [中國知網](https://cnki.net/) | [NCBI](https://www.ncbi.nlm.nih.gov/) |
-|          | [USA](https://www.usa.gov/) | [NA](https://www.nature.com/) | [WIRED](https://www.wired.com/) | [NASA](https://www.nasa.gov/) | [MIT](https://web.mit.edu/) | [AR](https://arxiv.org/) | [AC](https://www.academia.edu/)     | [AR](https://www.archives.gov/)          | [SF](https://www.stanford.edu/) | [識典古籍](https://shidianguji.com/library) |                                        |
+| **搜索** | [Google](https://www.google.com) | [Bing](https://www.bing.com) | [DDG](https://duckduckgo.com/)    | [WikiHow](https://www.wikihow.com/Main-Page) | [WikiPedia](https://wikipedia.org) | **工具** | [OSMap ](https://www.openstreetmap.org/) | [苹果地图](https://maps.apple.com/) | [快遞查詢](https://www.kuaidi100.com) | [谷歌翻譯](https://translate.google.cn) | [谷歌學術](https://scholar.google.com) |
+| **AI** | [**ChatGPT**](https://chatgpt.com/) | [Gemini](https://gemini.google.com) | [XGrok](https://grok.com/) | [Claude](https://claude.ai) |  |  |  |  |  |  |  |
+| **購物** | [京東](https://www.jd.com)     | [淘寶](https://www.taobao.com) | [當當](https://www.dangdang.com)  | [AMZ](https://www.amazon.com) | [1688](https://www.1688.com)         | **郵箱** | [谷歌郵箱](https://mail.google.com) | [雅虎郵箱](https://mail.yahoo.com) | [新浪郵箱](https://mail.163.com)                        | [騰訊郵箱](https://mail.qq.com)         | [139 郵箱](https://mail.139.com)       |
+| **影音** | [YouTube](https://www.youtube.com/) | [B 站](https://www.bilibili.com) | [SPF](https://www.spotify.com/) | [Instagram](https://www.instagram.com/) | [NF](https://netflix.com/) | **追劇** | [人人影視](https://www.rrys.tv) |                                          |                                             |  | [質子郵箱](https://www.protonmail.com) |
+| **其他** | [Quora](https://www.quora.com/) | [Goodreads](https://www.goodreads.com/) | [reddit](https://www.reddit.com/) | [Yandex](https://yandex.com/) | [Blogger](https://www.blogger.com/) | [TG](https://telegram.org) | [SG](https://signal.org)                 | [PV](https://www.pixiv.net/)             | [北郵人導航](https://byr.wiki)              | [科學上網](https://github.com/byrwiki/byrwiki/issues/13) | [今日熱榜](https://tophub.today/) |
+| **推薦** | [Reuters](https://www.reuters.com/) | [BBG](https://www.bloomberg.com/)       | [WhatsApp](https://www.whatsapp.com/) | [Linkin](https://www.linkedin.com/) | [Zlib](https://fuckfbi.ru/) | [國務院](https://www.gov.cn) | [中圖網](https://www.bookschina.com)     | [漢典](https://www.zdic.net/)            | [識典古籍](https://shidianguji.com/library) | [國圖](https://www.nlc.cn/) | [NCBI](https://www.ncbi.nlm.nih.gov/) |
+|          | [USA](https://www.usa.gov/) | [NA](https://www.nature.com/) | [WIRED](https://www.wired.com/) | [NASA](https://www.nasa.gov/) | [SD](https://www.sciencedirect.com/) | [AR](https://arxiv.org/) | [AC](https://www.academia.edu/)     | [AR](https://www.archives.gov/)          | [SFU](https://www.stanford.edu/) | [MIT](https://web.mit.edu/) | [GitHub](https://github.com/) |
 
 bㄅB　pㄆP　mㄇM　fㄈF　dㄉD　tㄊT　nㄋN　lㄌL　gㄍG　kㄎK　hㄏH　jㄐJ　qㄑQ　xㄒX　zhㄓZH　chㄔCH　shㄕSH　rㄖR　zㄗZ　cㄘC　sㄙS 
 
@@ -23,21 +24,29 @@ aiㄞAI　 eiㄟEI　 aoㄠAU　 ouㄡOU　 anㄢAN　 enㄣEN　angㄤANG　 en
 
 [中國國務院](https://www.gov.cn)
 
+[中国领事服务网](https://cs.mfa.gov.cn)
+
 
 
 ### 學習 Study
 
-[中國國家圖書館](https://www.nlc.cn/)
+[中國國家圖書館](https://www.nlc.cn)
 
-[中國知網](https://cnki.net/)
+[中国教育考試网](https://www.neea.edu.cn)
 
-[漢典](https://www.zdic.net/)
+[漢典](https://www.zdic.net)
 
-[中國大學慕課MOOC](https://www.icourse163.org/)
+[千篇](https://www.qianp.com)
 
-[谷歌翻译](https://translate.google.com) [CN](https://translate.google.cn) 
+[中國大學慕課MOOC](https://www.icourse163.org)
+
+[有道翻譯](https://fanyi.youdao.com/index.html)
+
+[谷歌翻譯](https://translate.google.com)
 
 [DeepL Translate](https://www.deepl.com/translator)
+
+[Coursera](https://www.coursera.org)
 
 
 
@@ -52,23 +61,22 @@ aiㄞAI　 eiㄟEI　 aoㄠAU　 ouㄡOU　 anㄢAN　 enㄣEN　angㄤANG　 en
 
 ### 科研 Science
 
-Science
-Nature
+[Nature](https://www.nature.com)
+[Science](https://www.sciencemag.org)
+[Lancet](https://www.thelancet.com)
+[Cell](https://www.cell.com)
+[BMJ](https://www.bmj.com)
+[Elsevier](https://www.elsevier.com)
+[Oxford](https://academic.oup.com)
+[Wiley](https://onlinelibrary.wiley.com)
+[medRxiv](http://connect.medrxiv.org)
+[NEJM](https://www.nejm.org)
+[JAMA](https://jamanetwork.com)
 NCBI
-[CDC](https://www.cdc.gov/mmwr/Novel_Coronavirus_Reports.html)
-[NEJM](https://www.nejm.org/coronavirus)
-[JAMA](https://jamanetwork.com/journals/jama/pages/coronavirus-alert)
-[Lancet](https://www.thelancet.com/coronavirus)
-[Cell](https://www.cell.com/2019-nCOV)
-[BMJ](https://www.bmj.com/coronavirus)
-[Nature](https://www.nature.com/collections/hajgidghjb)
-[Science](https://www.sciencemag.org/collections/coronavirus)
-[Elsevier](https://www.elsevier.com/connect/coronavirus-information-center)
-[Oxford](https://academic.oup.com/journals/pages/coronavirus)
-[Wiley](https://novel-coronavirus.onlinelibrary.wiley.com/)
-[medRxiv](http://connect.medrxiv.org/relate/content/181)
+[CDC](https://www.cdc.gov)
+[中國知網](https://cnki.net/)
 
-**Stand on the shoulders of giants**
+**Stand on the shoulders of Giants**
 
 
 
@@ -78,6 +86,8 @@ NCBI
 
 * Sublime Text
 * Notepad++
+* Notepad--
+* Notepad Next
 * Typora
 * Vim
 * nano
@@ -85,13 +95,14 @@ NCBI
 #### 辦公軟件 Office
 
 * LibreOffice
-* WPS Office
+* WPS Office (ad)
 * MS Office ($$)
 * iWork（Mac）
 
 #### 文檔編輯排版 Document
 
 * Latex-Texlive
+* TexStudio
 * Lyx
 * mactex（Mac）
 * Miktex(win)
@@ -100,23 +111,29 @@ NCBI
 
 * Simplenote
 * OneNote
+* Obsidian
 
 #### 思維導圖 MindMap
 
 * 藝圖 MindMaster
+* XMind 
 
 #### 教育 Education
 
-* GoldenDict
-* Calibre
+* Anki 一个友好智能的开源免费学习系统
+* Calibre 电子书阅读器
+* GoldenDict 电子词典
+* KoodoReader 电子书阅读器
 
 #### 網絡 Internet
 
 * Chrome 谷歌瀏覽器
 * Firefox 火狐瀏覽器
+* Brave 瀏覽器
 * Internet Download Manager 
 * Free Download Manager 
 * µTorrent 
+* qBittorrent
 * Resilio sync 
 * FileZilla
 
@@ -129,11 +146,13 @@ NCBI
 #### 多媒體 Multimedia
 
 * VLC 
+* PotPlayer
+* AIMP
 
 #### 圖形與設計 Photo & Design
 
 * **G**NU **I**mage **M**anipulation **P**rogram (**GIMP**) 
-* Inkscape 
+* Inkscape — 矢量图
 * Blender — 2D & 3D 圖形和動畫軟件
 * Krita — 2D 圖形和動畫軟件
 
@@ -142,6 +161,7 @@ NCBI
 * DaVinci Resolve 達芬奇
 * OBS Studio 
 * Olive 
+* Shortcut
 
 #### 密碼安全
 
@@ -152,8 +172,9 @@ NCBI
 
 * Mathpix Snip
 * CopyTranslator
-* Zotero
-* Fritzing
+* Zotero 学术文献管理
+* Fritzing 电路
+* KiCad 电子电路
 
 #### 專業工具 Prof
 
@@ -161,7 +182,8 @@ NCBI
 
 #### 系統工具 System tools
 
-* tree — 目录结构
+* [tree](https://mama.indstate.edu/users/ice/tree) — 目录结构
+* [Everything](https://www.voidtools.com) — 本地搜索
 * [Rufus](https://rufus.akeo.ie/) — Rufus 是 Ubuntu 官网推荐的 USB 启动盘制作工具。
 * [Etcher](https://www.balena.io/etcher/) — balenaEtcher USB 启动盘制作工具
 * [微PE工具箱](https://www.wepe.com.cn/) — 制作 U 盘启动盘 [荐]
@@ -181,7 +203,6 @@ NCBI
 * Virtual Box — 虛擬機
 * Flux — 亮度调节 护眼软件
 * TeamViewer — 遠程控制
-* Everything — 本地搜索
 * Listary — 搜索
 * [蓝灯(Lantern)](https://github.com/getlantern/lantern) — VPN 有免费 250M 流量。
 * [光年VPN](https://www.lightyearvpn.com/) — 含两个免费节点。支持 Windows、MacOS。
@@ -192,10 +213,11 @@ NCBI
 
 ### 商家 Enterprise
 
-Thermo Fisher
+BD
+Cytiva
 Corning
 Ge Life
-BD
+Thermo Fisher
 
 
 
@@ -209,6 +231,12 @@ BD
 ## 索引 INDEX A-Z
 
 ### <a name="Aa">A</a>
+
+[Apple](https://www.apple.com)
+
+[Anki](https://docs.ankiweb.net)
+
+
 
 ### <a name="Bb">B</a>
 
@@ -253,6 +281,8 @@ BD
 [Flux](https://justgetflux.com/)
 
 [Free Download Manager(FDM)](https://www.freedownloadmanager.org/)
+
+[Fritzing](https://fritzing.org)
 
 
 
@@ -304,6 +334,8 @@ BD
 
 [Krita](https://krita.org/)
 
+[Kubuntu](https://kubuntu.org)
+
 
 
 ### <a name="Ll">L</a>
@@ -346,7 +378,7 @@ BD
 
 [Notepad++](https://notepad-plus-plus.org/)
 
-
+Notepad--
 
 ### <a name="Oo">O</a>
 
@@ -355,6 +387,8 @@ BD
 [OBS Studio](https://obsproject.com/)
 
 [Olive](https://www.olivevideoeditor.org/)
+
+[Overleaf](https://www.overleaf.com)
 
 
 
@@ -369,6 +403,10 @@ BD
 
 
 ### <a name="Qq">Q</a>
+
+[千篇](https://qianpian.)
+
+
 
 ### <a name="Rr">R</a>
 
@@ -404,6 +442,10 @@ BD
 
 [Telegram](https://telegram.org/)
 
+tree
+
+[TrueNAS](https://www.truenas.com/download-truenas-core)
+
 
 
 ### <a name="Uu">U</a>
@@ -425,6 +467,13 @@ BD
 ### <a name="Ww">W</a>
 
 [Wikipedia](https://www.wikipedia.org)
+
+Wikisource
+
+Wikibooks
+
+Wikiversity
+
 [WPS](https://wps.com) （[CN](https://wps.cn)）
 
 

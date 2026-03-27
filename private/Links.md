@@ -5,7 +5,7 @@
 | 搜索     | [Google](https://www.google.com) | [Bing](https://www.bing.com) | [搜狗](https://www.sogou.com) | [微信](https://weixin.sogou.com) |  | 工具     | [火車票](https://www.12306.cn) | [地圖](https://www.openstreetmap.org) | [快遞查詢](https://www.kuaidi100.com) | [谷歌翻譯](https://translate.google.cn) |  |
 | -------- | :------: | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | **搜索** | [Google](https://www.google.com) | [Bing](https://www.bing.com) | [搜狗](https://www.sogou.com) | [搜微信](https://weixin.sogou.com) | [维基百科](https://wikipedia.org) | **工具** | [火車票](https://www.12306.cn) | [地圖](https://www.openstreetmap.org) | [快遞查詢](https://www.kuaidi100.com) | [谷歌翻譯](https://translate.google.cn) | [谷歌學術](https://scholar.google.com) |
-| **AIChat** | [DeepSeek](https://chat.deepseek.com) | [字节豆包](https://www.doubao.com/chat) | [阿里千问](https://www.qianwen.com) | [Kimi](https://www.kimi.com) | [讯飞星火](https://xinghuo.xfyun.cn) | [**ChatGPT**](https://chat.openai.com) | [微软Copilot](https://copilot.microsoft.com) | [谷歌Gemini](https://gemini.google.com) | [Claude](https://claude.ai) | [Perplexity ](https://www.perplexity.ai) | [百度一言](https://yiyan.baidu.com) |
+| **AIChat** | [DeepSeek](https://chat.deepseek.com) | [字节豆包](https://www.doubao.com/chat) | [阿里千问](https://www.qianwen.com) | [Kimi](https://www.kimi.com) | [讯飞星火](https://xinghuo.xfyun.cn) | [**ChatGPT**](https://chatgpt.com/) | [微软Copilot](https://copilot.microsoft.com) | [谷歌Gemini](https://gemini.google.com) | [Claude](https://claude.ai) | [Perplexity ](https://www.perplexity.ai) | [百度一言](https://yiyan.baidu.com) |
 | **購物** | [京東](https://www.jd.com)     | [淘寶](https://www.taobao.com) | [當當](https://www.dangdang.com)  | [1688](https://www.1688.com) | [维基文庫](https://wikisource.org) | **郵箱** | [谷歌郵箱](https://mail.google.com) | [雅虎郵箱](https://mail.yahoo.com) | [新浪郵箱](https://mail.163.com)                        | [騰訊郵箱](https://mail.qq.com)         | [139 郵箱](https://mail.139.com)       |
 | **影音** | [央視](https://tv.cctv.com/live/cctv1) | [B 站](https://www.bilibili.com) | [咪咕音樂](https://music.migu.cn) | [QQ音樂](https://y.qq.com)       | [维基圖書](https://wikibooks.org) | **追劇** | [人人影視](https://www.rrys.tv) | [愛奇藝](https://www.iqiyi.com) | [優酷](https://www.youku.com) |  | [質子郵箱](https://www.protonmail.com) |
 | **其他** | [知乎](https://www.zhihu.com) | [豆瓣](https://www.douban.com) | [微博](https://www.weibo.com) | [微信文传助手](https://filehelper.weixin.qq.com/) | [維基學院](https://wikiversity.org) | **無名** | [學習强國](https://www.xuexi.cn) | [北郵人導航](https://byr.wiki) | [科學上網](https://github.com/byrwiki/byrwiki/issues/13) | [今日熱榜](https://tophub.today) | [新華網](http://www.xinhuanet.com) |
@@ -99,6 +99,7 @@ NCBI
 #### 文檔編輯排版 Document
 
 * Latex-Texlive
+* TexStudio
 * Lyx
 * mactex（Mac）
 * Miktex(win)
@@ -129,6 +130,7 @@ NCBI
 * Internet Download Manager 
 * Free Download Manager 
 * µTorrent 
+* qBittorrent
 * Resilio sync 
 * FileZilla 
 
@@ -142,11 +144,12 @@ NCBI
 
 * VLC 
 * PotPlayer
+* AIMP
 
 #### 圖形與設計 Photo & Design
 
 * **G**NU **I**mage **M**anipulation **P**rogram (**GIMP**) 
-* Inkscape 矢量图
+* Inkscape — 矢量图
 * Blender — 2D & 3D 圖形和動畫軟件
 * Krita — 2D 圖形和動畫軟件
 
@@ -155,6 +158,7 @@ NCBI
 * DaVinci Resolve 達芬奇
 * OBS Studio 
 * Olive 
+* Shortcut
 
 #### 密碼安全
 
@@ -204,11 +208,8 @@ NCBI
 * Virtual Box — 虛擬機
 * [Flux](https://justgetflux.com) — 亮度调节 护眼软件
 * TeamViewer — 遠程控制
-* Everything — 本地搜索
 * Listary — 搜索
 * [蓝灯(Lantern)](https://github.com/getlantern/lantern) — VPN 有免费 250M 流量。
-*  
-* 
 * [光年VPN](https://www.lightyearvpn.com) — 含两个免费节点。支持 Windows、MacOS。
 * [TouchVPN](https://touchvpn.net) — 官网显示有 Android、Windows、Chrome插件、iOS、MacOS 版本。
 * Parallels ($$) — mac虛擬機
@@ -380,9 +381,9 @@ Thermo Fisher
 
 [NCBI](https://www.ncbi.nlm.nih.gov)
 
-Notepad--
+[Notepad++](https://notepad-plus-plus.org/)
 
-Nord
+Notepad--
 
 
 
@@ -482,8 +483,6 @@ Wikibooks
 
 Wikiversity
 
-
-
 [WPS](https://wps.com) （[CN](https://wps.cn)）
 
 
@@ -505,6 +504,8 @@ Wikiversity
 [Zotero](https://www.zotero.org)
 
 [中國國家圖書館](https://www.nlc.cn)
+
+[中國知網](https://cnki.net/)
 
 
 
